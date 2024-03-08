@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+##
+.env
+
+# Distribution / packaging
+.Python
+build/
+dist/
+egg-info/
+*.egg
+*.egg-info
+pip-log.txt
+pip-delete-this-directory.txt
+exp.py
+log.txt
+
+# Installer logs
+pip-log.txt
+
+# Virtual environments
+venv/
+ENV/
+
+# macOS DS_Store files
+.DS_Store
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Compiled Python files
+*.pyc
+
+# Debugging
+*.bak
+*.vscode/
+*.idea/
+
+# Editor-specific
+*~
+.idea/
+.vscode/
+
+# Project-specific files
+settings.ini
+config.ini
+
+# cache
+path_to_directory/
+project_document/path_to_directory/
+*/path_to_directory/
+**/path_to_directory/
+
+company_directory
+company_directory/
+project_document/company_directory/
+*/company_directory/
+**/company_directory/
+experiment/
+outputs/

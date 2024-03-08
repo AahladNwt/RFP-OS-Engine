@@ -1,0 +1,2 @@
+class SearchLimitError(Exception):
+    pass
