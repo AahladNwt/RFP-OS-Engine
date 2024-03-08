@@ -10,7 +10,6 @@ import matplotlib.pyplot as plt
 import tabulate as tb
 import markdown as md
 import os
-#os.environ["OPENAI_API_KEY"] = "False"
 def start():
 
     st.set_page_config(
